@@ -1,0 +1,13 @@
+{
+  "name": "inspira/price-configurator",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Botble\\PriceConfigurator\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}

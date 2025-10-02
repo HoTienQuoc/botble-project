@@ -1,0 +1,10 @@
+{
+  "name": "Price Configurator",
+  "namespace": "Botble\\PriceConfigurator\\",
+  "provider": "Botble\\PriceConfigurator\\Providers\\PriceConfiguratorServiceProvider",
+  "author": "Inspira",
+  "url": "https://inspira-zentrum.net",
+  "version": "1.1.1",
+  "description": "Rule-based customer-category price adjustments for Botble Hotel. Includes admin CRUD for tiers, rules, and customer categories.",
+  "requires": []
+}
